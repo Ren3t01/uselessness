@@ -1,1 +1,1 @@
-Python project for counting the uselessness of 100.
+Python project for determining the uselessness of 100.
