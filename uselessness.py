@@ -1,5 +1,5 @@
 one = "1"
-zero="0"
+zero = "0"
 
 one_hundred = int(one+zero+zero)
 
