@@ -10,6 +10,6 @@ while(useless < one_hundred):
 	useless = useless + 1
 	
 if 100 == useless:
-	print("Uselessness confirmed")
-else:
 	print("Uselessness unconfirmed")
+else:
+	print("Uselessness confirmed")
