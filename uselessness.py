@@ -1,5 +1,3 @@
-import random
-
 one = "1"
 zero="0"
 
